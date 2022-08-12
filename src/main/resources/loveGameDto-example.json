@@ -1,0 +1,8 @@
+{
+  "player": {
+    "name": "Foo"
+  },
+  "game": {
+    "name": "Bar"
+  }
+}
